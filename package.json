@@ -24,8 +24,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.13",
     "react-router-dom": "^5.2.0",
-    "simple-react-validator": "^1.6.0",
-    "webpack": "^5.18.0"
+    "simple-react-validator": "^1.6.0"
   },
   "devDependencies": {
     "webpack-cli": "^4.4.0"

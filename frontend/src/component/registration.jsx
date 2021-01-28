@@ -84,7 +84,7 @@ class Reg extends Component {
           {this.state.validator.message(
             "name",
             this.state.mainArray.name,
-            "required|alpha",
+            "required|alpha_space",
             { className: "text-danger" }
           )}
         </div>
