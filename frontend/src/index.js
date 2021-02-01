@@ -5,14 +5,19 @@ import Component from "./component/mainComp";
 import "bootstrap/dist/css/bootstrap.css";
 import { BrowserRouter } from "react-router-dom";
 import reportWebVitals from "./reportWebVitals";
-
+import { createStore } from "redux";
+import { Provider } from "react-redux";
+import { store } from "./redux/store/store";
+import thunk from "redux-thunk";
+import { composeWithDevTools } from "redux-devtools-extension";
+console.log("store", store);
 ReactDOM.render(
-  <React.StrictMode>
-    <BrowserRouter>
-      {" "}
+  <BrowserRouter>
+    <Provider store={store}>
       <Component />
-    </BrowserRouter>
-  </React.StrictMode>,
+    </Provider>
+  </BrowserRouter>,
+
   document.getElementById("root")
 );
 

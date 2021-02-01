@@ -5,20 +5,17 @@ import Login from "./login";
 
 import Reg from "./registration";
 
-class main extends Component {
-  state = {};
-  render() {
-    return (
-      <div>
-        <Switch>
-          <Route path="/registration" component={Reg} />
-          <Route path="/login" component={Login} />
-          <Route path="/dashboard" component={DashBoard} />
-        </Switch>
-        <Redirect to="/login" />
-      </div>
-    );
-  }
-}
+const Main = () => {
+  return (
+    <div>
+      <Switch>
+        <Route path="/registration" component={Reg} />
+        <Route path="/login" component={Login} />
+        <Route path="/dashboard" component={DashBoard} />
+      </Switch>
+      <Redirect to="/login" />
+    </div>
+  );
+};
 
-export default main;
+export default Main;

@@ -21,12 +21,12 @@ userRoute.post(
       name: user.name,
       email: user.email,
       password: user.password,
+      token: jwtToken(user._id),
     });
   })
 );
 userRoute.post(
   "/user/login",
-
   asyncHandler(async (req, res) => {
     const { email, password } = req.body;
 
