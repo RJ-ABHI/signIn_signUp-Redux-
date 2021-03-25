@@ -1,0 +1,438 @@
+[
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 681.6,
+"study_date": "2020-07",
+"study_description": "Abd/Pel w/",
+"dlp": 342.4,
+"facility": "Local 05262020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Abd/Pel w/",
+"id": "63",
+"station": "CT1",
+"mapped_protocol": "Abd/Pel w/"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 681.6,
+"study_date": "2020-07",
+"study_description": "Abd/Pel w/",
+"dlp": 442.4,
+"facility": "Local 05252020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Abd/Pel w/",
+"id": "64",
+"station": "CT1",
+"mapped_protocol": "Abd/Pel w/"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 645.2,
+"study_date": "2020-07",
+"dlp": 151.2,
+"facility": "Local 05252020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"alert_level_1": false,
+"alert_level_2": false,
+"mapped_protocol": "Abdomen Routine ZC (NR)",
+"study_description": "Abdomen Routine ZC (NR)",
+"protocol_name": "Abdomen Routine ZC (NR)",
+"id": "49",
+"station": "CT1"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 645.2,
+"study_date": "2020-07",
+"dlp": 251.2,
+"facility": "Local 05252020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"alert_level_1": false,
+"alert_level_2": false,
+"mapped_protocol": "Abdomen Routine ZC (NR)",
+"study_description": "Abdomen Routine ZC (NR)",
+"protocol_name": "Abdomen Routine ZC (NR)",
+"id": "50",
+"station": "CT1"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 645.2,
+"study_date": "2020-07",
+"dlp": 651.2,
+"facility": "Local 05252020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"alert_level_1": true,
+"alert_level_2": false,
+"mapped_protocol": "Abdomen Routine ZC (NR)",
+"study_description": "Abdomen Routine ZC (NR)",
+"protocol_name": "Abdomen Routine ZC (NR)",
+"id": "54",
+"station": "CT1"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 681.6,
+"study_date": "2020-07",
+"study_description": "Abd/Pel w/",
+"dlp": 642.4,
+"facility": "Local 05272020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Abd/Pel w/",
+"id": "66",
+"station": "CT1",
+"mapped_protocol": "Abd/Pel w/"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 605.9,
+"study_date": "2020-07",
+"study_description": "Topogram",
+"dlp": 407.8,
+"facility": "Local 05262020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Topogram",
+"id": "59",
+"station": "CT1",
+"mapped_protocol": "Topogram"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 605.9,
+"study_date": "2020-07",
+"study_description": "Topogram",
+"dlp": 707.8,
+"facility": "Local 05252020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Topogram",
+"id": "62",
+"station": "CT1",
+"mapped_protocol": "Topogram"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 605.9,
+"study_date": "2020-07",
+"study_description": "Topogram",
+"dlp": 507.8,
+"facility": "Local 05272020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Topogram",
+"id": "60",
+"station": "CT1",
+"mapped_protocol": "Topogram"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 605.9,
+"study_date": "2020-07",
+"study_description": "Topogram",
+"dlp": 607.8,
+"facility": "Local 05272020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Topogram",
+"id": "61",
+"station": "CT1",
+"mapped_protocol": "Topogram"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 645.2,
+"study_date": "2020-07",
+"dlp": 551.2,
+"facility": "Local 05252020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"alert_level_1": true,
+"alert_level_2": false,
+"mapped_protocol": "Abdomen Routine ZC (NR)",
+"study_description": "Abdomen Routine ZC (NR)",
+"protocol_name": "Abdomen Routine ZC (NR)",
+"id": "53",
+"station": "CT1"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 645.2,
+"study_date": "2020-07",
+"dlp": 451.2,
+"facility": "Local 05262020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"alert_level_1": true,
+"alert_level_2": false,
+"mapped_protocol": "Abdomen Routine ZC (NR)",
+"study_description": "Abdomen Routine ZC (NR)",
+"protocol_name": "Abdomen Routine ZC (NR)",
+"id": "52",
+"station": "CT1"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 645.2,
+"study_date": "2020-07",
+"dlp": 351.2,
+"facility": "Local 05262020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"alert_level_1": false,
+"alert_level_2": false,
+"mapped_protocol": "Abdomen Routine ZC (NR)",
+"study_description": "Abdomen Routine ZC (NR)",
+"protocol_name": "Abdomen Routine ZC (NR)",
+"id": "51",
+"station": "CT1"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 681.6,
+"study_date": "2020-07",
+"study_description": "Abd/Pel w/",
+"dlp": 842.4,
+"facility": "Local 05272020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Abd/Pel w/",
+"id": "68",
+"station": "CT1",
+"mapped_protocol": "Abd/Pel w/"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 681.6,
+"study_date": "2020-07",
+"study_description": "Abd/Pel w/",
+"dlp": 542.4,
+"facility": "Local 05252020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Abd/Pel w/",
+"id": "65",
+"station": "CT1",
+"mapped_protocol": "Abd/Pel w/"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 605.9,
+"study_date": "2020-07",
+"study_description": "Topogram",
+"dlp": 307.8,
+"facility": "Local 05262020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Topogram",
+"id": "58",
+"station": "CT1",
+"mapped_protocol": "Topogram"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 645.2,
+"study_date": "2020-07",
+"dlp": 751.2,
+"facility": "Local 05272020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"alert_level_1": true,
+"alert_level_2": true,
+"mapped_protocol": "Abdomen Routine ZC (NR)",
+"study_description": "Abdomen Routine ZC (NR)",
+"protocol_name": "Abdomen Routine ZC (NR)",
+"id": "55",
+"station": "CT1"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 605.9,
+"study_date": "2020-07",
+"dlp": 107.8,
+"facility": "Local 05262020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"alert_level_1": false,
+"alert_level_2": false,
+"mapped_protocol": "Topogram",
+"study_description": "Topogram",
+"protocol_name": "Topogram",
+"id": "56",
+"station": "CT1"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 681.6,
+"study_date": "2020-07",
+"study_description": "Abd/Pel w/",
+"dlp": 942.4,
+"facility": "Local 05262020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Abd/Pel w/",
+"id": "69",
+"station": "CT1",
+"mapped_protocol": "Abd/Pel w/"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 681.6,
+"study_date": "2020-07",
+"study_description": "Abd/Pel w/",
+"dlp": 742.4,
+"facility": "Local 05272020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Abd/Pel w/",
+"id": "67",
+"station": "CT1",
+"mapped_protocol": "Abd/Pel w/"
+},
+{
+"model": "Siemens SOMATOM Definition Flash",
+"benchmark": 605.9,
+"study_date": "2020-07",
+"study_description": "Topogram",
+"dlp": 207.8,
+"facility": "Local 05252020",
+"comments": [
+{
+"dateTime": "01-20-2021 08:11AM",
+"user": "Daniel",
+"comment": "This is a test"
+}
+],
+"ctdi": 5.3,
+"protocol_name": "Topogram",
+"id": "57",
+"station": "CT1",
+"mapped_protocol": "Topogram"
+}
+]
