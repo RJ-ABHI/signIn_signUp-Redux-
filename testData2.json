@@ -1,7 +1,7 @@
 [
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 681.6,
+"benchmark": 600,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 342.4,
@@ -21,7 +21,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 681.6,
+"benchmark": 700,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 442.4,
@@ -41,7 +41,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 645.2,
+"benchmark": 200,
 "study_date": "2020-07",
 "dlp": 151.2,
 "facility": "Local 05252020",
@@ -63,7 +63,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 645.2,
+"benchmark": 312.6,
 "study_date": "2020-07",
 "dlp": 251.2,
 "facility": "Local 05252020",
@@ -85,7 +85,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 645.2,
+"benchmark": 160.7,
 "study_date": "2020-07",
 "dlp": 651.2,
 "facility": "Local 05252020",
@@ -107,7 +107,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 681.6,
+"benchmark": 530.89,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 642.4,
@@ -127,7 +127,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 605.9,
+"benchmark": 345.5,
 "study_date": "2020-07",
 "study_description": "Topogram",
 "dlp": 407.8,
@@ -147,7 +147,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 605.9,
+"benchmark": 252.3,
 "study_date": "2020-07",
 "study_description": "Topogram",
 "dlp": 707.8,
@@ -167,7 +167,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 605.9,
+"benchmark": 178.4,
 "study_date": "2020-07",
 "study_description": "Topogram",
 "dlp": 507.8,
@@ -187,7 +187,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 605.9,
+"benchmark": 123.2,
 "study_date": "2020-07",
 "study_description": "Topogram",
 "dlp": 607.8,
@@ -207,7 +207,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 645.2,
+"benchmark": 589.9,
 "study_date": "2020-07",
 "dlp": 551.2,
 "facility": "Local 05252020",
@@ -229,7 +229,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 645.2,
+"benchmark": 689.3,
 "study_date": "2020-07",
 "dlp": 451.2,
 "facility": "Local 05262020",
@@ -251,7 +251,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 645.2,
+"benchmark": 498.45,
 "study_date": "2020-07",
 "dlp": 351.2,
 "facility": "Local 05262020",
@@ -293,7 +293,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 681.6,
+"benchmark": 290.6,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 542.4,
@@ -355,7 +355,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 605.9,
+"benchmark": 698.7,
 "study_date": "2020-07",
 "dlp": 107.8,
 "facility": "Local 05262020",
@@ -377,7 +377,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 681.6,
+"benchmark": 309.67,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 942.4,
@@ -417,7 +417,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 605.9,
+"benchmark": 100.98,
 "study_date": "2020-07",
 "study_description": "Topogram",
 "dlp": 207.8,
