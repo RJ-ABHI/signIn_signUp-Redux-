@@ -273,7 +273,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 600,
+"benchmark": 300,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 842.4,
