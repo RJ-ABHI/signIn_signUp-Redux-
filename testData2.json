@@ -1,7 +1,7 @@
 [
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 600,
+"benchmark": 100,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 342.4,
@@ -21,7 +21,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 700,
+"benchmark": 300,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 442.4,
@@ -107,7 +107,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 530.89,
+"benchmark": 200,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 642.4,
@@ -273,7 +273,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 681.6,
+"benchmark": 600,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 842.4,
@@ -287,7 +287,7 @@
 ],
 "ctdi": 5.3,
 "protocol_name": "Abd/Pel w/",
-"id": "68",
+"id": "400",
 "station": "CT1",
 "mapped_protocol": "Abd/Pel w/"
 },
@@ -377,7 +377,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 309.67,
+"benchmark": 700,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 942.4,
@@ -397,7 +397,7 @@
 },
 {
 "model": "Siemens SOMATOM Definition Flash",
-"benchmark": 681.6,
+"benchmark": 400,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
 "dlp": 742.4,
