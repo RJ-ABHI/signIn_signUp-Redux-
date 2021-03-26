@@ -4,7 +4,7 @@
 "benchmark": 100,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
-"dlp": 342.4,
+"dlp": 0,
 "facility": "Local 05262020",
 "comments": [
 {
@@ -24,7 +24,7 @@
 "benchmark": 300,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
-"dlp": 442.4,
+"dlp": 200,
 "facility": "Local 05252020",
 "comments": [
 {
@@ -110,7 +110,7 @@
 "benchmark": 250,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
-"dlp": 642.4,
+"dlp": 250,
 "facility": "Local 05272020",
 "comments": [
 {
@@ -287,7 +287,7 @@
 ],
 "ctdi": 5.3,
 "protocol_name": "Abd/Pel w/",
-"id": "400",
+"id": "300",
 "station": "CT1",
 "mapped_protocol": "Abd/Pel w/"
 },
@@ -380,7 +380,7 @@
 "benchmark": 250,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
-"dlp": 942.4,
+"dlp": 370,
 "facility": "Local 05262020",
 "comments": [
 {
@@ -400,7 +400,7 @@
 "benchmark": 300,
 "study_date": "2020-07",
 "study_description": "Abd/Pel w/",
-"dlp": 742.4,
+"dlp": 400,
 "facility": "Local 05272020",
 "comments": [
 {
